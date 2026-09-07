@@ -1,5 +1,3 @@
-# Simple Background Player (ESP 2021)
-
 ## Descrizione
 Applicazione Android per la riproduzione musicale in background con supporto tablet.
 
