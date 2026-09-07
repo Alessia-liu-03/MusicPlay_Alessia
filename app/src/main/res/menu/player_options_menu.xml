@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/opt_rename_title"
+        android:title="Rinomina titolo" />
+    <item
+        android:id="@+id/opt_rename_artist"
+        android:title="Rinomina artista" />
+    <item
+        android:id="@+id/opt_timer"
+        android:title="Timer stop musica" />
+</menu>

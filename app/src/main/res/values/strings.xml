@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicPlay_Alessia</string>
+    <string name="greetings">Let\'s make some music!</string>
+    <string name="button_start">START</string>
+    <string name="song_artist">Paul Whiteman Orchestra</string>
+    <string name="song_title">Doo Wacka Doo</string>
+    <string name="channel_name">Player service</string>
+    <string name="channel_description">Info about songs</string>
+</resources>
